@@ -1,2 +1,2 @@
-# fctank
-FC tank game, named as BattleCity
+# airplane
+A plane advanture game based on pygame, for my son: NieQingyun, happy birthday!
